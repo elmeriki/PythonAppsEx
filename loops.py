@@ -38,14 +38,27 @@
 #     print(i)
 #   i=i+1
 
-i = 1
-while i <= 5:
- print("#", end=" ")
- j = 1
- while j <= 5:
-  print("#", end=" ")
-  j += 1
- i +=1
- print()
+# i = 1
+# while i <= 5:
+#  print("#", end=" ")
+#  j = 1
+#  while j <= 5:
+#   print("#", end=" ")
+#   j += 1
+#  i +=1
+#  print()
  
- 
+a=1
+while a <=5:
+    print("#", end ="")
+    b=1
+    while b <=5:
+        print("#", end ="")
+        b=b+1
+    a=a+1
+    print()
+    
+    
+
+
+    
