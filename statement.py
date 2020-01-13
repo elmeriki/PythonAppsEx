@@ -34,5 +34,4 @@ elif a < 0:
     print("This is Nagative Number") 
 else:
     print("Enter a number")
-
-    
+ 
