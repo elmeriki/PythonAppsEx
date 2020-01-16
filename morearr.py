@@ -1,6 +1,19 @@
-#!/usr/bin/python3
 from numpy import *
-print('23434')
-#arr = array([2,4,5,6,7,8])
-#print(arr)
+from array import array
+from numpy.core import arange, linspace
+
+# arr = array([20,303,403,60,10,])
+# print(arr)
+
+# arr =linspace(0,10,10)
+# print(arr)
+
+# it has three stage
+
+# Start 
+# Length 
+# Amount of time to break 
+
+arr = arange(0,20,3)
+print(arr)
 
